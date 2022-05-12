@@ -20,7 +20,7 @@
       inputs.devshell.follows = "devshell";
     };
     rust-tools = {
-      url = "path:./flakes/rust-tools";
+      url = "github:SnO2WMaN/rust-tools-overlay";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };

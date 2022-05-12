@@ -36,11 +36,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1652315302,
-        "narHash": "sha256-CNFzJR7Qmk6fG0SdOT/svm2OlzUnXqDVp1pcQ7Mbw+8=",
+        "lastModified": 1652316931,
+        "narHash": "sha256-IUjTSDh/I+U7/BDjHhvXnc+28m6C3cOv1tPLpir/oS0=",
         "owner": "SnO2WMaN",
         "repo": "devshell-files",
-        "rev": "e0dd0650a32881ce75bb154abd9babfc958bd487",
+        "rev": "a4a22dcd136639f840d81b1e1ddd2f97dc211db8",
         "type": "github"
       },
       "original": {
@@ -97,14 +97,17 @@
         ]
       },
       "locked": {
-        "lastModified": 1,
-        "narHash": "sha256-XwZdh+jAfzCbTMH9cRCCy32C+iJ1shJ9u/fPANpxiYw=",
-        "path": "./flakes/rust-tools",
-        "type": "path"
+        "lastModified": 1652318252,
+        "narHash": "sha256-oWOhm+OV4ogZnPSe9ZYIUGAHXGRsaisJaGcAv70IGzw=",
+        "owner": "SnO2WMaN",
+        "repo": "rust-tools-overlay",
+        "rev": "8b2a51aeaa8725d5d36b86f3630bcbf22c04516a",
+        "type": "github"
       },
       "original": {
-        "path": "./flakes/rust-tools",
-        "type": "path"
+        "owner": "SnO2WMaN",
+        "repo": "rust-tools-overlay",
+        "type": "github"
       }
     }
   },
