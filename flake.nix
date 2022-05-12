@@ -47,7 +47,7 @@
             taplo-cli
           ];
 
-          files.direnv.enable = true;
+          files.direnv.enable = false;
           files.gitignore = {
             enable = true;
             pattern = {
