@@ -1,8 +1,0 @@
-[devshell]
-name = "Test"
-packages = [
-  # dev 
-  "treefmt",
-  "nixpkgs-fmt",
-  "taplo-cli",
-]
